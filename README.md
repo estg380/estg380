@@ -1,0 +1,4 @@
+- 👋 Olá sou o Tiago Correia
+- 👀 Tenho interesse em desenvolvimento web
+- 🌱 Atualmente estudo análise e desenvolvimento de sistemas na unifatecie
+- 💞️ Espero poder crescer e aprender sempre mais.
