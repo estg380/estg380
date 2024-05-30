@@ -1,4 +1,4 @@
 - 👋 Olá sou o Tiago Correia
-- 👀 Tenho interesse em desenvolvimento web
-- 🌱 Atualmente estudo análise e desenvolvimento de sistemas na unifatecie
+- 👀 Tenho interesse analise de banco de dados
+- 🌱 Atualmente estudo Big data e inteligencia artificial
 - 💞️ Espero poder crescer e aprender sempre mais.
